@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Twitch Search",
+        "description": "A web application that uses Twitch API that allows users to search for their favorite streamers, watch the stream and interact in the chat. (MongoDB, Express, React, Node.js)",
+        "link": "https://github.com/jackyphung/twitch_streams_search"
+    },
+    {
+        "id": 2,
+        "title": "Chat App",
+        "description": "A software application that functions as a chat app. The server allows multiple clients to connect through multithreading, it stores a log of the chat and displays what was said in the server to a new client that joins. (C++)",
+        "link": "https://github.com/jackyphung/Chat-App"
+    },
+    {
+        "id": 3,
+        "title": "ArtXperience",
+        "description": "An art community platform where users can browse and post artworks, post comments, and journals. Admins on can manage users and posts. (MongoDB, Express, React, Node.js)",
+        "link": "https://gitlab.com/Delta-Axis/art-ax"
+    },
+    {
+        "id": 4,
+        "title": "Friends List",
+        "description": "A web application that represents a friend list where users can invite friends to play games and admins can manager users and games. (MongoDB, Express, Angular, Node.js)",
+        "link": "https://gitlab.com/comp3123_jphung_jsylucero/comp3123_assignment1"
+    }
+]
